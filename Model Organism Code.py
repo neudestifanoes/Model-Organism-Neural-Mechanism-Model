@@ -1,5 +1,5 @@
 
-# 1. IMPORT LIBRARIES
+# 1. IMPORT ALL THE IMPORTANT LIBRARIES
 
 # Import numpy for math calculations
 import numpy as np
