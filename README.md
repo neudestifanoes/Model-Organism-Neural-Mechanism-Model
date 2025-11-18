@@ -1,4 +1,3 @@
-Here is the text formatted for a GitHub README.md file. You can copy and paste this directly.
 
 ```
 # Model of Bidirectional Plasticity in the Schaffer Collateral Pathway
